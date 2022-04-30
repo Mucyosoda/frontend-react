@@ -8,11 +8,12 @@
 ## Built With
 * Ruby on Rails
 * React
-* Redux
 * Psql
 
 
 ## Getting Started
+
+clone https://github.com/Mucyosoda/Hello-Rails-React.git`
 
 ### Prerequisites
 
